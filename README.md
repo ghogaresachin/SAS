@@ -144,8 +144,9 @@ Distributed under the MIT License. See `LICENSE` for details.
 
 ## Contact
 
-📧 **Your Name** - Sachin Ghogare 
+📧 **Name** - Sachin Ghogare  
 📧 Email: [sachinghogare1762@gmail.com](mailto:sachinghogare1762@gmail.com)
+
 
 
 _Last Updated: October 2023_
