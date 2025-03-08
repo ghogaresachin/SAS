@@ -144,7 +144,7 @@ Distributed under the MIT License. See `LICENSE` for details.
 
 ## Contact
 
-📧 **Your Name** - your.email@example.com  
+📧 **Your Name** - sachinghogare1762@gmail.com  
 🔗 **Project Link**: [github.com/yourusername/repo-name](#)
 
 _Last Updated: October 2023_
