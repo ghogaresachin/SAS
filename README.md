@@ -144,8 +144,7 @@ Distributed under the MIT License. See `LICENSE` for details.
 
 ## Contact
 
-📧 **Your Name** - sachinghogare1762@gmail.com  
-🔗 **Project Link**: [https://github.com/ghogaresachin/SAS/tree/main](#)
+📧 **Your Name** - Sachin Ghogare 
 
 _Last Updated: October 2023_
 
