@@ -149,7 +149,6 @@ Distributed under the MIT License. See `LICENSE` for details.
 
 
 
-_Last Updated: October 2023_
 
 ---
 
